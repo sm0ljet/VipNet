@@ -7,7 +7,7 @@ Made with :heartpulse: by "**o1d_bu7_go1d**" for KPK Students
 ---
 ### Оглавление
 
-1. [Подготовка](https://github.com/Abends2/ViPNet__Labs/blob/main/ViPNet-Labs/Lab-2/ViPNet-Training-2-DemoExam-2024.md#подготовка)
+1. [Подготовка](https://github.com/sm0ljet/VipNet/blob/main/VipNet/metodichka.md#подготовка)
     - [Часть 1. Добавление виртуальных машин в библиотеку VMWare Workstation](https://github.com/Abends2/ViPNet__Labs/blob/main/ViPNet-Labs/Lab-2/ViPNet-Training-2-DemoExam-2024.md#часть-1-добавление-виртуальных-машин-в-библиотеку-vmware-workstation)
     - [Часть 2. Расширение памяти](https://github.com/Abends2/ViPNet__Labs/blob/main/ViPNet-Labs/Lab-2/ViPNet-Training-2-DemoExam-2024.md#часть-2-расширение-памяти)
     - [Часть 3. Включение общей папки между ВМ и хостовой ОС](https://github.com/Abends2/ViPNet__Labs/blob/main/ViPNet-Labs/Lab-2/ViPNet-Training-2-DemoExam-2024.md#часть-3-включение-общей-папки-между-вм-и-хостовой-ос)
